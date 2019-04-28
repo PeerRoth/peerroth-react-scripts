@@ -1,0 +1,25 @@
+{
+  "name": "my-gulp",
+  "version": "1.0.0",
+  "description": "first gulp try",
+  "main": "index.js",
+  "scripts": {
+    "test": "question"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my-gulp-git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "pr",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1"
+  },
+  "dependencies": {
+    "criticalcss": "^2.1.0"
+  }
+}
